@@ -37,3 +37,6 @@ The developer should have knowledge of the specific SDK language and the Stellar
 
 ![image](https://user-images.githubusercontent.com/73634107/125995613-8b5fd266-b2b2-4d70-a249-92fd939528ff.png) <br> 
 ![image](https://user-images.githubusercontent.com/73634107/125995769-7f9970d5-bd07-4629-8d9a-385cb7bd4c02.png)
+
+## Submissions
+https://example.com/Smephite/icompletedthis
